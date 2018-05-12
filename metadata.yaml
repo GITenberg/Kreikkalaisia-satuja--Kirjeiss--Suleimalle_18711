@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8199
     wikipedia: http://bibliografia.kuopio.fi/kirjailijat/c/calamnius_johan/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18711#Kreikkalaisia-satuja--Kirjeiss--Suleimalle
 gutenberg_issued: '2006-06-28'
 gutenberg_type: Text
 identifiers:
